@@ -4,8 +4,8 @@
 # Description:           服务器信息上报龙潭
 # Filename:              reportServerInfo.py
 # Revision:              9.4
-# Date:                  2023/11/23
-# Author:                liuguohui1
+# Date:                  2024/04/03
+# Author:                
 # Usage:                 python reportServerInfo.py -k <static_key(选填)> -c <client_id选填> -n <api_name选填>
 #                        -i <task_id选填> -m <mode选填> -b <CALLBACK选填>
 # 引入python模块
