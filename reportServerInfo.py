@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # /usr/bin/python
-# Description:           服务器信息上报龙潭
+# Description:           服务器信息上报
 # Filename:              reportServerInfo.py
 # Revision:              9.4
 # Date:                  2024/04/03
